@@ -1,21 +1,21 @@
 2024.8.3
-  比较古老，fork下来备忘。
-  可以安装在nas、树莓、机顶盒等linux系统等设备上，接上音箱，使其作为支持dlna协议音频播放器
-  项目介绍主页：https://gmrender.nongnu.org/
+gmrender-resurrect  
+这个比较古老，fork下来备忘。  
+可以安装在nas、树莓、机顶盒等linux系统等设备上，接上音箱，使其作为支持dlna协议音频播放器  
+项目介绍主页：https://gmrender.nongnu.org/  
   
-  linux：
-    apt-get gmediarender
-    
-另一款upmpdcli（基于 MPD 的 UPnP 音频媒体渲染器）：
-  https://github.com/GioF71/upmpdcli-docker
-  项目介绍主页：https://www.lesbonscomptes.com/upmpdcli/index.html
+linux：apt-get gmediarender  
+
+另一款upmpdcli（基于 MPD 的 UPnP 音频媒体渲染器）：     
+https://github.com/GioF71/upmpdcli-docker  
+项目介绍主页：https://www.lesbonscomptes.com/upmpdcli/index.html  
 
 让设备支持Airplay相关软件：
-比较老：
-  Shairplay：https://github.com/juhovh/shairplay
-  Shairport：https://github.com/abrasive/shairport
-最新的：
-shairport-sync：https://github.com/mikebrady/shairport-sync
+比较老：  
+Shairplay：https://github.com/juhovh/shairplay  
+Shairport：https://github.com/abrasive/shairport  
+最新的：  
+shairport-sync：https://github.com/mikebrady/shairport-sync  
 
 
 
