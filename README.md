@@ -4,7 +4,7 @@ gmrender-resurrect
 可以安装在nas、树莓、机顶盒等linux系统等设备上，接上音箱，使其作为支持dlna协议音频播放器  
 项目介绍主页：https://gmrender.nongnu.org/  
   
-linux：apt-get gmediarender  
+linux：apt-get update && apt-get install gmediarender  
 
 另一款upmpdcli（基于 MPD 的 UPnP 音频媒体渲染器）：     
 https://github.com/GioF71/upmpdcli-docker  
