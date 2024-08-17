@@ -9,6 +9,7 @@ linux：apt-get update && apt-get install gmediarender
 另一款upmpdcli（基于 MPD 的 UPnP 音频媒体渲染器）：     
 https://github.com/GioF71/upmpdcli-docker  
 项目介绍主页：https://www.lesbonscomptes.com/upmpdcli/index.html  
+经过实践，手机上面的dlna投送，搜索不到，只能使用第三方app才能搜到upmpdcli投送点。  
 
 让设备支持Airplay相关软件：
 比较老：  
