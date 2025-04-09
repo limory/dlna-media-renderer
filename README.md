@@ -7,7 +7,7 @@ linux：apt-get update && apt-get install gmediarender
 这样安装后并不能直接使用，还需安装Recommends 和 Suggests依赖的几个插件包gstreamer1.0-plugins-good gstreamer1.0-plugins-bad gstreamer1.0-plugins-ugly    
 
 docker：https://hub.docker.com/r/giof71/gmrender-resurrect    
-docker github：https://hub.docker.com/r/giof71/gmrender-resurrect    
+docker github：https://github.com/GioF71/gmrender-resurrect-docker    
 
 另一款upmpdcli（基于 MPD 的 UPnP 音频媒体渲染器）：     
 https://github.com/GioF71/upmpdcli-docker  
