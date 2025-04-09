@@ -1,10 +1,13 @@
 2024.8.3
 gmrender-resurrect  
-fork下来备忘，虽然比较古老，但是嘎嘎好用，就是依赖包太大  
+fork下来备忘，虽然比较古老，但是嘎嘎好用，就是编译时所需依赖包太大  
 可以安装在nas、树莓、机顶盒等linux系统等设备上，接上音箱，使其作为支持dlna协议音频播放器    
   
 linux：apt-get update && apt-get install gmediarender  
 这样安装后并不能直接使用，还需安装Recommends 和 Suggests依赖的几个插件包gstreamer1.0-plugins-good gstreamer1.0-plugins-bad gstreamer1.0-plugins-ugly    
+
+docker：https://hub.docker.com/r/giof71/gmrender-resurrect    
+docker github：https://hub.docker.com/r/giof71/gmrender-resurrect    
 
 另一款upmpdcli（基于 MPD 的 UPnP 音频媒体渲染器）：     
 https://github.com/GioF71/upmpdcli-docker  
